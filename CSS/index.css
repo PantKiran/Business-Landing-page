@@ -1,0 +1,405 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* Styling for first Div */
+.first {
+  background: rgb(42, 19, 64);
+  height: 600px;
+  color: white;
+}
+.logo img {
+  width: 108px;
+  height: 34px;
+  padding: -24px 46px;
+  margin-left: 22px;
+  margin-top: 28px;
+}
+ul li {
+  display: flex;
+  margin: -9px 41px;
+  font-size: 19px;
+  padding: 5px;
+  margin-top: -22px;
+  margin-left: 6px;
+}
+nav li {
+  float: right;
+}
+nav ul li input{
+  border-radius: 17px;
+    height: 26px;
+    text-align: center
+}
+nav ul li a{
+color: white;
+text-decoration: none;
+}
+nav ul li a:hover{
+  font-weight: bolder;
+  color: yellow;
+ 
+}
+.heading {
+  height: 200px;
+  width: 399px;
+  background-color: rgb(42, 19, 64);
+  position: absolute;
+  margin-top: 138px;
+  margin-left: 177px;
+}
+.heading h1 {
+  font-size: 69px;
+  color: yellow;
+}
+.heading h4 {
+  font-size: 27px;
+}
+.heading h3 {
+  font-size: 42px;
+}
+.heading input {
+  background-color: yellow;
+  margin: 1px;
+  padding: 8px;
+  border-radius: 15px;
+  width: 121px;
+}
+
+.image img {
+  width: 380px;
+  height: 378px;
+  padding: 52px 27px;
+  margin-left: 1039px;
+  margin-top: 11px;
+}
+
+/* Styling for second div */
+.container {
+  display: flex;
+}
+.second {
+  background: rgb(255, 248, 52);
+  height: 333px;
+  width: 40%;
+  color: white;
+  text-align: center;
+  justify-content: center;
+}
+.features h1 {
+  font-size: 69px;
+}
+.features h4 {
+  font-size: 27px;
+}
+.features h3 {
+  font-size: 42px;
+}
+.features {
+  /* margin-top: 46px;
+    width: 640px; */
+  height: 200px;
+  width: 399px;
+  background-color: rgb(255, 248, 52);
+  position: absolute;
+  margin-top: 47px;
+  margin-left: 177px;
+}
+.features p {
+  color: black;
+}
+
+.second2 {
+  background: rgb(241, 236, 87);
+  height: 332px;
+  width: 20%;
+  color: white;
+  text-align: center;
+}
+
+.customize {
+  margin-top: 37px;
+  margin-left: 62px;
+  width: 211px;
+}
+.customize h2 {
+  color: black;
+}
+.customize p {
+  color: black;
+}
+.second3 {
+  background: rgb(184, 184, 56);
+  height: 332px;
+  width: 20%;
+  color: white;
+}
+.security {
+  margin-left: 70px;
+  margin-top: 33px;
+  margin-bottom: 90px;
+  margin-right: 18px;
+  width: 252px;
+}
+.security {
+  color: black;
+}
+.logo2 {
+  margin-left: 132px;
+  margin-top: 39px;
+  height: 15px;
+}
+.second4 {
+  background: rgb(156, 153, 67);
+  height: 332px;
+  width: 20%;
+  color: white;
+}
+.support {
+  color: black;
+}
+.logo3 {
+  margin-left: 120px;
+  margin-top: 39px;
+  height: 15px;
+}
+.support {
+  margin-left: 70px;
+  margin-top: 33px;
+  margin-bottom: 90px;
+  margin-right: 18px;
+  width: 253px;
+}
+
+/* styling for third div */
+.white {
+  background: #fbfefc;
+  height: 689px;
+  width: 100%;
+  color: white;
+}
+.service {
+  color: black;
+  margin-top: 100px;
+  margin-left: 151px;
+}
+.service h1 {
+  font-size: 50px;
+}
+.paragraph {
+  color: black;
+  width: -128px;
+  margin-top: -79px;
+  margin-left: 748px;
+}
+
+.creative h2 {
+  color: rgb(219, 219, 98);
+}
+.creative p {
+  color: black;
+}
+
+.creative {
+  margin-top: 64px;
+  margin-left: 271px;
+  width: 459px;
+}
+.img1 {
+  margin-top: -58px;
+  margin-left: -76px;
+  position: absolute;
+}
+
+.business h2 {
+  color: rgb(219, 219, 98);
+}
+.business p {
+  color: black;
+}
+.business {
+  margin-top: 64px;
+  margin-left: 271px;
+  width: 459px;
+}
+.img2 {
+  margin-top: -58px;
+  margin-left: -76px;
+  position: absolute;
+}
+
+.training h2 {
+  color: rgb(219, 219, 98);
+}
+.training p {
+  color: black;
+}
+
+.training {
+  margin-top: 64px;
+  margin-left: 271px;
+  width: 459px;
+}
+.img3 {
+  margin-top: -58px;
+  margin-left: -76px;
+  position: absolute;
+}
+
+.best h2 {
+  color: rgb(219, 219, 98);
+}
+
+.best p {
+  color: black;
+}
+.best {
+  margin-top: -453px;
+  margin-left: 905px;
+  width: 465px;
+  
+}
+.img4 {
+  margin-top: -58px;
+  margin-left: -76px;
+  position: absolute;
+}
+
+.strategy h2 {
+  color: rgb(219, 219, 98);
+}
+
+.strategy p {
+  color: black;
+}
+.strategy {
+  margin-top: 59px;
+  margin-left: 901px;
+  width: 464px;
+}
+
+.img5 {
+  margin-top: -58px;
+  margin-left: -76px;
+  position: absolute;
+}
+
+.privacy h2 {
+  color: rgb(219, 219, 98);
+}
+
+.privacy p {
+  color: black;
+}
+.privacy {
+  margin-top: 52px;
+  margin-left: 901px;
+  width: 464px;
+}
+
+.img6 {
+  margin-top: -58px;
+  margin-left: -76px;
+  position: absolute;
+}
+
+/* styling for fourth div */
+.yellow {
+  background: rgb(255, 248, 52);
+  height: 492px;;
+  color: white;
+}
+ .test {
+    margin-top: 45px;
+    position: absolute;
+    margin-left: 708px;
+ }
+ .pic1{
+    position: absolute;
+    margin-top: 134px;
+    margin-left: 199px;
+    width: 385px;
+ }
+.pic1 h3{
+    color: black;
+}
+
+.pic2{
+    position: absolute;
+    margin-top: 135px;
+    margin-left: 738px;
+    width: 385px;
+ }
+.pic2 h3{
+    color: black;
+}
+
+.pic3{
+    position: absolute;
+    margin-top: 136px;
+    margin-left: 1252px;
+    width: 385px;
+ }
+.pic3 h3{
+    color: black;
+}
+
+
+
+
+/* Styling for footer div */
+.footer {
+  background-color: rgb(42, 19, 64);
+  height: 164px
+}
+.fimage{
+    position: absolute;
+    margin-top: 63px;
+    margin-left: 103px;
+}
+.para{
+    position: absolute;
+    margin-top: 47px;
+    margin-left: 373px;
+    width: 503px;
+}
+.address{
+    position: absolute;
+    margin-top: 47px;
+    margin-left: 1013px;
+    width: 503px;
+}
+
+.add1{
+    position: absolute;
+    margin-top: -63px;
+    margin-left: -45px;
+}
+.add2{
+    position: absolute;
+    margin-top: -22px;
+    margin-left: -43px;
+}
+.webadd{
+    position: absolute;
+    margin-top: 47px;
+    margin-left: 1013px;
+    width: 503px
+}
+.web{
+  position: absolute;
+  margin-left: 411px;
+  margin-top: -58px;
+    
+}
+ .email{
+  position: absolute;
+  margin-top: -61px;
+  margin-left: -41px;
+ }
+ .website{
+  position: absolute;
+    margin-top: -29px;
+    margin-left: -42px
+ }
